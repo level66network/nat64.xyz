@@ -1,0 +1,9 @@
+{{ define "main" }}
+<div class="container">
+  <h1 class="mt-5">{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</h1>
+  <p class="lead">{{ .Params.banner.subline }}</p>
+</div>
+<div class="container">
+  {{ .Content }}
+</div>
+{{ end }}

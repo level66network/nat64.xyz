@@ -1,0 +1,7 @@
+baseURL = 'https://nat64.xyz/'
+languageCode = 'en-us'
+title = 'nat64.xyz'
+theme = 'nat64.xyz'
+
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files
