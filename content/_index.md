@@ -10,7 +10,7 @@ If you are curious about the uptime of the different providers, feel free to hav
 
 | Provider | Country / City | DNS64 Server | NAT64 Prefix | DoH | DoT | Remarks |
 |---|---|---|---|---|---| --- |
-| ~~August Internet~~ | ~~United States of America / Fremont~~ | ~~2602:fc23:18::7~~ | ~~2602:fbf6:800::/64~~ | down since long time |
+| ~~August Internet~~ | ~~United States of America / Fremont~~ | ~~2602:fc23:18::7~~ | ~~2602:fbf6:800::/64~~ | | | down since long time |
 | Kasper Dupont | Germany / Nürnberg | 2a00:1098:2b::1<br/>2a00:1098:2c::1<br/>2a01:4f8:c2c:123f::1 | 2a00:1098:2b::/96<br/>2a00:1098:2c:1::/96<br/>2a01:4f8:c2c:123f:64::/96<br/>2a01:4f9:c010:3f02:64::/96 |  | dot.nat64.dk |
 | Kasper Dupont | United Kingdom / London | 2a00:1098:2b::1<br/>2a00:1098:2c::1<br/>2a01:4f8:c2c:123f::1 | 2a00:1098:2b::/96<br/>2a00:1098:2c:1::/96<br/>2a01:4f8:c2c:123f:64::/96<br/>2a01:4f9:c010:3f02:64::/96 | | dot.nat64.dk |
 | Kasper Dupont | United Kingdom / London | 2a00:1098:2b::1<br/>2a00:1098:2c::1<br/>2a01:4f8:c2c:123f::1 | 2a00:1098:2b::/96<br/>2a00:1098:2c:1::/96<br/>2a01:4f8:c2c:123f:64::/96<br/>2a01:4f9:c010:3f02:64::/96 | | dot.nat64.dk |
