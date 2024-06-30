@@ -17,5 +17,5 @@ If you are curious about the uptime of the different providers, feel free to hav
 | Kasper Dupont | Finland / Helsinki | 2a00:1098:2b::1<br/>2a00:1098:2c::1<br/>2a01:4f8:c2c:123f::1 | 2a00:1098:2b::/96<br/>2a00:1098:2c:1::/96<br/>2a01:4f8:c2c:123f:64::/96<br/>2a01:4f9:c010:3f02:64::/96 | | dot.nat64.dk |
 | level66.network | Germany / Anycast | 2001:67c:2960::64<br/>2001:67c:2960::6464 | 2001:67c:2960:6464::/96 |
 | level66.network | The Netherlands / Anycast | 2001:67c:2960::64<br/>2001:67c:2960::6464 | 2001:67c:2960:6464::/96 |
-| Trex | Finland / Tampere | 2001:67c:2b0::4<br/>2001:67c:2b0::6 | 2001:67c:2b0:db32:0:1::/96 |
-| ~~Tuxis~~ | ~~The Netherlands / Ede~~ | ~~2a03:7900:2:0:31:3:104:161~~ | ~~2a03:7900:6446::/96~~ | ~~<https://nat64.tuxis.nl/>~~ | ~~nat64.tuxis.nl~~ | announcing the well-know prefix, non functional as publix NAT64 gateway |
+| ~~Trex~~ | ~~Finland / Tampere~~ | ~~2001:67c:2b0::4<br/>2001:67c:2b0::6~~ | ~~2001:67c:2b0:db32:0:1::/96~~ | | | announcing the well-know prefix, non functional as public NAT64 gateway |
+| ~~Tuxis~~ | ~~The Netherlands / Ede~~ | ~~2a03:7900:2:0:31:3:104:161~~ | ~~2a03:7900:6446::/96~~ | ~~<https://nat64.tuxis.nl/>~~ | ~~nat64.tuxis.nl~~ | announcing the well-know prefix, non functional as public NAT64 gateway |
